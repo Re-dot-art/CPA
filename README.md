@@ -19,7 +19,7 @@
 
 ## Installation Instructions
 
-- We use Python 3.6, PyTorch 1.9.0 (CUDA 10.2 build), reference to IRG (CVPR 2023)).
+- We use Python 3.6, PyTorch 1.9.0 (CUDA 10.2 build), reference to IRG (CVPR 2023).
 - The codebase is built on [Detectron](https://github.com/facebookresearch/detectron2).
 
 ```angular2
